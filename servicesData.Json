@@ -1,0 +1,62 @@
+[    
+    {
+        "id": 1,
+        "name": "Car Cleaning",
+        "price": "80",
+        "category": "car",
+        "shortText": "Looking for the best car wash & car cleaning services at home? We are trusted & skilled auto mechanics & service providers in Bangladesh. Book now!",
+    "description1": "Our service commitment to excellence has attracted the best people from all over the car wash industry. The entire senior leadership team have owned and operated car wash sites and are committed to continually fine tuning the car wash process to deliver a better customer experience. A passion for car detailing runs in the blood. With a steely determination to offer Bangladesh’s highest quality professional hand wash the business grew. 19 years later, the relentless focus on quality and customer service now sees the Star Car Wash brand offered at over 150 locations throughout Bangladesh and in 2019 we helped clean over 41 thousand cars. Car cleaning is in our blood and we look forward to giving you that new car feeling.",
+    "description2": "Star Car Wash is Bangladesh’s leading professional hand wash & detailing provider. For over 19 years we remained a family owned, private company that operates within an atmosphere of determination and innovation. We offering an unrivalled service and is determined that every customer enjoys that new car feeling. We aim to make cleaning your car an affordable and convenient experience whether at one of our cafe sites or at our conveniently located shopping car park facilities. All our locations live up to the same car wash quality.",
+        "img": "https://images.kitchenstories.io/communityImages/f4604e05f6a9eaca99afddd69e849005_c02485d4-0841-4de6-b152-69deb38693f2.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Garden Cleaning",
+        "price": "120",
+        "category": "garden",
+            "shortText": "We are a comprehensive garden cleaning and maintenance company. Get your weekends back, and let our gardening team take care of your gardening.",
+    "description1": "We don’t merely manage the aesthetic appearance of your garden, but the surrounding area too. Complete Garden Maintenance with all the Trimmings The exterior of any property makes the first impression on visitors. Seasonal lawn cuts (at least 16 at regular intervals) throughout the spring and summer months, including the removal of grass cuttings from the lawn. Application of weed killer to rid the grass of unnecessary aspects. All edges, tree pockets, shrub beds, as well as the environment as a whole will be trimmed and expertly maintained. We also prune all shrubs as appropriate for the time of year and plant species.",
+    "description2": "A tidy, well-maintained environment is paramount. If the surrounding landscape of your property have been neglected, our cleaning services can help. We provide a comprehensive garden maintenance service that is simply a cut above the rest. Whether you require a dedicated service to manage your home, communal, or commercial garden areas we can provide you with an unrivalled service.  We provide a wealth of services to effectively transform and maintain garden environments. Employing a team of committed and experienced professionals, we work tirelessly to leave your garden full of life, well-kempt, and tidy.",
+        "img": "https://images.kitchenstories.io/communityImages/f4604e05f6a9eaca99afddd69e849005_c02485d4-0841-4de6-b152-69deb38693f2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Home Cleaning",
+        "price": "150",
+        "category": "home",
+        "shortText": "This service will help you to clean your home and also help to remove deep stains. Our Service provider will use effective chemicals that will wash your home smoothly and neatly.",
+    "description1": " Imagine a world without Handy. You’ve put in a whole day at the office, your train is 30 minutes late, and by the time you finally walk into your apartment, there are dirty dishes stacked high in the sink, dirty clothes are strewn everywhere, your bed is unmade, the shower is starting to smell a bit like mildew, and the floors are covered with mud. A professional cleaning service probably sounds pretty good right about now, doesn't it? The last thing in the world you want to do is pull on your yellow rubber gloves and begin scrubbing the floors and vacuuming the carpets. With Handy, you don’t have to.",
+    "description2": " If you’re in need of home cleaning, apartment cleaning, or a maid service, we’re simply the best, most convenient home cleaning service way to book a cleaning. We know you want a well-priced cleaning while still having the confidence that your cleaning will be thorough and professional. Handy connects you to cleaners who offer just that. And Handy helps schedule your recurring leanings automatically for you, so you can focus on the other things in your life.",
+        "img": "https://images.kitchenstories.io/communityImages/f4604e05f6a9eaca99afddd69e849005_c02485d4-0841-4de6-b152-69deb38693f2.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Office Cleaning",
+        "price": "170",
+        "category": "office",
+        "shortText": "Looking for an Office cleaning services Bangladesh? We have 10 years of experienced for cleaning service company and cleaning company in Bangladesh.",
+    "description1": "Eliminate dust, dirt, unpleasant odors and more from your office building with office cleaning services from us. A fresh and pristine office emphasizes professionalism and creates a healthy work atmosphere for your employees. We'll work with you to develop a customized cleaning program for your office that meets your cleaning needs. Whether your space is large or small, we Clean professionals can transform your dirty office into an immaculate space that boosts employee productivity and morale. Our office cleaning specialists use industry-standard cleaning methods and products to deliver a deep clean that really shines. From lobbies, offices, open office spaces, conference rooms and more, we clean it all.",
+    "description2": "We have established the industry’s highest standards of performance to ensure you consistently benefit from the best levels of office cleaning services in the business. By our service, you will have a true partner. We keep the lines of communication open and respond to your concerns or questions whenever you need us. Our office cleaning service can serve you on a monthly, bi-weekly, or weekly schedule, and we will create a plan that works for your business needs. We know that in the field of office cleaning, Dhaka businesses are aware of green energy and environmentally friendly practices. We share this passion and provides our clients with an environmentally friendly office cleaning service to ensure that we meet your requirements and standards.",
+        "img": "https://images.kitchenstories.io/communityImages/f4604e05f6a9eaca99afddd69e849005_c02485d4-0841-4de6-b152-69deb38693f2.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Road Cleaning",
+        "price": "200",
+        "category": "road",
+        "shortText": "We offer Road Cleaning Services that ensure to keep the roads clean and litter free. Our experienced cleaners and sweepers aim at high quality standards and work in a smart and efficient manner.",
+    "description1": "Our road sweeping and cleaning service aims to keep roadside gutters free of stones, silt, leaves and other debris through regular mechanical sweeping, though this can be hindered where there are large numbers of cars parked at the road side. We understand that customer satisfaction is key to the success of any firm. That's why we work hard to ensure that our customers receive a quality of work that brings satisfaction and continues to build our reputation. Road repairs, resurfacing, potholes, cutting of roadside verges and grassed areas within villages, snow clearance, gritting and salting, skip permits, roadside drains, mud on the road, overhanging trees, maintenance of road markings, signs, pavements, cycle-ways, bollards, road crossings, dropped kerbs and on-street car parking are all services provided.",
+    "description2": "Each commericial street sweeper, parking lot sweeper, or cleaning equipment we deploy keeps our road cleaning efficient, and environmentally-safe. We're as conscious about a clean environment as we are a clean municipal neighbourhood or commercial enterprise, always surpassing city environmental standards. Fully licensed, bonded, and insured largest and most reliable company for Bangladesh street sweeping, parking lot sweeping, and commercial power sweeping! In addition, we offer the services at cost effective prices to meet the client's requirements.",
+        "img": "https://images.kitchenstories.io/communityImages/f4604e05f6a9eaca99afddd69e849005_c02485d4-0841-4de6-b152-69deb38693f2.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Shop Cleaning",
+        "price": "300",
+        "category": "shop",
+        "shortText": "We provide professional retail shop cleaning services. For interests in retail shop cleaning or store cleaning, contact our location today!",
+    "description1": "Your customers expect and deserve a clean, charming shopping experience every time they walk into your shop. A welcoming environment encourages shoppers to stay longer and return more often.  A cleaned and disinfected retail store also has healthier employees, less absences, and higher morale. Our cleaning and disinfecting program creates a clean, safe, and healthy environment for everyone who enters your store. Choosing a commercial cleaning provider that has expert knowledge and experience is necessary to uphold the highest standards. ",
+    "description2": " Cleanliness affects the entire shopping process. People will always prefer a cleaner retail store over a dirty one, but sometimes the level of cleanliness can have an affect they do not even realize. First impressions are developed the moment customers walk through the doors—and sometimes before that. An overall tidy store can be the inviting element that gets the shopping process moving. Once first impressions are made, the quality of retail cleaning done will influence the time spent within the store. We have earned our trusted reputation by providing results. Our franchisees are business owners who are dedicated to their trade and experts in what they do, that’s our difference.",
+        "img": "https://images.kitchenstories.io/communityImages/f4604e05f6a9eaca99afddd69e849005_c02485d4-0841-4de6-b152-69deb38693f2.jpg"
+    }
+]
