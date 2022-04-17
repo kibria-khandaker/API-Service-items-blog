@@ -1,4 +1,4 @@
-#### Getting Started with "react-rating" Create React App
+#### API-Service-items-blog
 
 [react rating my demo](https://vermillion-cocada-8ce3b2.netlify.app/)
 
